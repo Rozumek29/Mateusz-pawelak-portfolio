@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/Mateusz-pawelak-portfolio/static/css/main.1cc91026.css",
-    "main.js": "/Mateusz-pawelak-portfolio/static/js/main.0f23fc45.js",
+    "main.css": "/Mateusz-pawelak-portfolio/static/css/main.02e32528.css",
+    "main.js": "/Mateusz-pawelak-portfolio/static/js/main.4aba85bd.js",
     "static/js/787.fd249304.chunk.js": "/Mateusz-pawelak-portfolio/static/js/787.fd249304.chunk.js",
+    "static/media/photo.png": "/Mateusz-pawelak-portfolio/static/media/photo.c43dc248b7b50c9fd881.png",
     "static/media/potato.png": "/Mateusz-pawelak-portfolio/static/media/potato.3fcc514896e7d4e09450.png",
     "index.html": "/Mateusz-pawelak-portfolio/index.html",
-    "main.1cc91026.css.map": "/Mateusz-pawelak-portfolio/static/css/main.1cc91026.css.map",
-    "main.0f23fc45.js.map": "/Mateusz-pawelak-portfolio/static/js/main.0f23fc45.js.map",
+    "main.02e32528.css.map": "/Mateusz-pawelak-portfolio/static/css/main.02e32528.css.map",
+    "main.4aba85bd.js.map": "/Mateusz-pawelak-portfolio/static/js/main.4aba85bd.js.map",
     "787.fd249304.chunk.js.map": "/Mateusz-pawelak-portfolio/static/js/787.fd249304.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1cc91026.css",
-    "static/js/main.0f23fc45.js"
+    "static/css/main.02e32528.css",
+    "static/js/main.4aba85bd.js"
   ]
 }
