@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Mateusz-pawelak-portfolio/static/css/main.2a236a02.css",
-    "main.js": "/Mateusz-pawelak-portfolio/static/js/main.2afa5c4b.js",
+    "main.js": "/Mateusz-pawelak-portfolio/static/js/main.5f11b2aa.js",
     "static/js/787.fd249304.chunk.js": "/Mateusz-pawelak-portfolio/static/js/787.fd249304.chunk.js",
     "index.html": "/Mateusz-pawelak-portfolio/index.html",
     "main.2a236a02.css.map": "/Mateusz-pawelak-portfolio/static/css/main.2a236a02.css.map",
-    "main.2afa5c4b.js.map": "/Mateusz-pawelak-portfolio/static/js/main.2afa5c4b.js.map",
+    "main.5f11b2aa.js.map": "/Mateusz-pawelak-portfolio/static/js/main.5f11b2aa.js.map",
     "787.fd249304.chunk.js.map": "/Mateusz-pawelak-portfolio/static/js/787.fd249304.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2a236a02.css",
-    "static/js/main.2afa5c4b.js"
+    "static/js/main.5f11b2aa.js"
   ]
 }
