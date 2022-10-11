@@ -1,9 +1,7 @@
 
 const Gallery = () => {
     return (
-        <div>
-            Gallery page
-        </div>
+        <h1>Portfolio page.</h1>
     )
 }
 
