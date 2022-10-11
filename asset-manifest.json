@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/Mateusz-pawelak-portfolio/static/css/main.2a236a02.css",
-    "main.js": "/Mateusz-pawelak-portfolio/static/js/main.5f11b2aa.js",
+    "main.css": "/Mateusz-pawelak-portfolio/static/css/main.1cc91026.css",
+    "main.js": "/Mateusz-pawelak-portfolio/static/js/main.578462c1.js",
     "static/js/787.fd249304.chunk.js": "/Mateusz-pawelak-portfolio/static/js/787.fd249304.chunk.js",
+    "static/media/potato.png": "/Mateusz-pawelak-portfolio/static/media/potato.3fcc514896e7d4e09450.png",
     "index.html": "/Mateusz-pawelak-portfolio/index.html",
-    "main.2a236a02.css.map": "/Mateusz-pawelak-portfolio/static/css/main.2a236a02.css.map",
-    "main.5f11b2aa.js.map": "/Mateusz-pawelak-portfolio/static/js/main.5f11b2aa.js.map",
+    "main.1cc91026.css.map": "/Mateusz-pawelak-portfolio/static/css/main.1cc91026.css.map",
+    "main.578462c1.js.map": "/Mateusz-pawelak-portfolio/static/js/main.578462c1.js.map",
     "787.fd249304.chunk.js.map": "/Mateusz-pawelak-portfolio/static/js/787.fd249304.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a236a02.css",
-    "static/js/main.5f11b2aa.js"
+    "static/css/main.1cc91026.css",
+    "static/js/main.578462c1.js"
   ]
 }
