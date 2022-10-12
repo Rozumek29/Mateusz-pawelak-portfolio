@@ -1,8 +1,10 @@
-
 const Contact = () => {
-  return (
-      <h1>Contact page.</h1>
-  )
+    return (
+        <div>
+            <h1>No tu też nic nie ma -.-</h1>
+            <h3>Co ty myślisz że ja motorek w dupie mam ?</h3>
+        </div>
+    )
 }
 
 export default Contact;

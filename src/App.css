@@ -1,7 +1,44 @@
-@import url('https://fonts.googleapis.com/css2?family=Cuprum:wght@700&family=Nixie+One&family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cuprum:wght@700&family=Inconsolata:wght@300;400;600;700&family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;1,700&display=swap');
 
 body {
-  font-family: 'Nixie One', cursive;
+  font-family: 'Inconsolata', monospace;
   margin: 0;
   padding: 0;
+}
+
+@keyframes potato-fade-in {
+  from {
+    top: 110%;
+    left: 25%;
+  }
+  to {
+    top: 55%;
+    left: 25%;
+  }
+}
+
+@keyframes potato-rotation-from-top {
+  from {
+    transform: rotate(300deg);
+    top: -150%;
+    left: 60%;
+  }
+  to {
+    transform: rotate(200deg);
+    top: -75%;
+    left: 60%;
+  }
+}
+
+@keyframes potato-rotation-from-bottom {
+  from {
+    transform: rotate(90deg);
+    top: 100%;
+    left: 90%;
+  }
+  to {
+    transform: rotate(20deg);
+    top: 35%;
+    left: 90%;
+  }
 }
