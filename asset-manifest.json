@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Mateusz-pawelak-portfolio/static/css/main.9862ac2f.css",
-    "main.js": "/Mateusz-pawelak-portfolio/static/js/main.1af51d7b.js",
+    "main.js": "/Mateusz-pawelak-portfolio/static/js/main.a0bef76d.js",
     "static/js/787.fd249304.chunk.js": "/Mateusz-pawelak-portfolio/static/js/787.fd249304.chunk.js",
     "static/media/hshash.png": "/Mateusz-pawelak-portfolio/static/media/hshash.a79121c9022743c0f94f.png",
     "static/media/Armor Ghost concept.png": "/Mateusz-pawelak-portfolio/static/media/Armor Ghost concept.b432c8f761a3bf59e626.png",
@@ -17,11 +17,11 @@
     "static/media/potato.png": "/Mateusz-pawelak-portfolio/static/media/potato.3fcc514896e7d4e09450.png",
     "index.html": "/Mateusz-pawelak-portfolio/index.html",
     "main.9862ac2f.css.map": "/Mateusz-pawelak-portfolio/static/css/main.9862ac2f.css.map",
-    "main.1af51d7b.js.map": "/Mateusz-pawelak-portfolio/static/js/main.1af51d7b.js.map",
+    "main.a0bef76d.js.map": "/Mateusz-pawelak-portfolio/static/js/main.a0bef76d.js.map",
     "787.fd249304.chunk.js.map": "/Mateusz-pawelak-portfolio/static/js/787.fd249304.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9862ac2f.css",
-    "static/js/main.1af51d7b.js"
+    "static/js/main.a0bef76d.js"
   ]
 }
