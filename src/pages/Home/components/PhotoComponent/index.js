@@ -20,13 +20,13 @@ const FirstRow = styled.h1`
   font-weight: 600;
   color: black;
   letter-spacing: 0.5rem;
-  font-size: 24px;
+  font-size: 26px;
 `;
 const SecondRow = styled.h1`
   color: lightgray;
   margin: 0;
   letter-spacing: 0.2rem;
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 400;
 `;
 const ThirdRow = styled.h1`

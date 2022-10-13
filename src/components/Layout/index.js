@@ -9,7 +9,7 @@ import styled from "styled-components";
 const ContentContainer = styled(Grid)`
   width: 99%;
   height: 99%;
-  padding: 1%;
+  padding: 0 0.5%;
 `;
 
 const AppLayout = () => {
